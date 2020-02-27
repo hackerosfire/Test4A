@@ -1,6 +1,6 @@
 export class Model {
     a: number;
     plamito: string;
-    e: string;
+    neshto: number;
     c: string[];
 }
