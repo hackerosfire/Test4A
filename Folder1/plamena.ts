@@ -1,5 +1,5 @@
 export class Model {
     a: number;
-    b: string;
+    plamito: string;
     c: string[];
 }
